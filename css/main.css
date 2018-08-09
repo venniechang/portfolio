@@ -1,0 +1,43 @@
+.blurb {
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.description {
+    font-family: 'Merriweather', serif;
+    color: #aaa;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.my-4 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: #3a4145;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.header-section{
+    border: 2px solid lightgrey;
+    background-color: #f5f8fa;
+    width: 100%;
+    margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.section-header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.card-text {
+    font-family: 'Questrial', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
