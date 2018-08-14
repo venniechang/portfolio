@@ -4,11 +4,12 @@
     letter-spacing: 1px;
 }
 
-.description {
+#description {
     font-family: 'Merriweather', serif;
     color: #aaa;
     font-size: 1.2rem;
     text-align: center;
+    font-style: italic;
 }
 
 .my-4 {
@@ -23,7 +24,7 @@
     border: 2px solid lightgrey;
     background-color: #f5f8fa;
     width: 100%;
-    margin: auto;
+    margin: 0 auto;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -40,4 +41,12 @@
     font-family: 'Questrial', sans-serif;
     font-size: 16px;
     letter-spacing: 1px;
+}
+
+.card:hover {
+    box-shadow: 0 5px 5px rgba(176, 184, 185, 0.705), 0 5px 5px rgba(187, 187, 187, 0.534);
+    transition: 0.5s;
+    -moz-transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
 }
