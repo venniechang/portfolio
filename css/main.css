@@ -52,3 +52,9 @@
     -webkit-transform: scale(1.025);
     transform: scale(1.025);
 }
+
+.technologies {
+    font-family: 'Questrial', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
